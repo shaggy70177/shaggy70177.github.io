@@ -1,0 +1,32 @@
+body{
+    font-family: Comfortaa, sans-serif;
+}
+.carousel .carousel-item{
+ height: 500px;
+}
+.iphone{
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 2.5rem;
+    font-size: 1.2rem;
+    padding-bottom: 2.5rem;
+    background-image: url(989.jpg);
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+}
+.iphone p{
+    background-color: rgba(206, 178, 86, 0.616);
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.price{
+    background-color: whitesmoke;
+    padding-top: 2rem;
+}
+img{
+    max-width: 5000px;
+}
+
